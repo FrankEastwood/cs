@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-10/root/usr/bin/c++ CMakeFiles/Tutorial_1.dir/tutorial.cxx.o -o Tutorial_1
